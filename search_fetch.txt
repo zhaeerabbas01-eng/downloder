@@ -1,0 +1,37 @@
+p)return;d.ep=!0;const h=r(d);fetch(d.href,h)}})();function PV(i)
+ 0):x=null,y.d.C(v,x))},ea.prefetchDNS=function(v){if(typeof v!="
+!v)console.error("ReactDOM.prefetchDNS(): Expected the `href` arg
+")?console.error("ReactDOM.prefetchDNS(): Expected only one argum
+fect. Try calling ReactDOM.prefetchDNS() with just a single strin
+)):console.error("ReactDOM.prefetchDNS(): Expected only one argum
+owed. Try calling ReactDOM.prefetchDNS() with just a single strin
+x.integrity:void 0,_=typeof x.fetchPriority=="string"?x.fetchPrio
+ 0,{crossOrigin:O,integrity:z,fetchPriority:_}):S==="script"&&y.d
+(v,{crossOrigin:O,integrity:z,fetchPriority:_,nonce:typeof x.nonc
+.type=="string"?x.type:void 0,fetchPriority:typeof x.fetchPriorit
+y=="string"?x.fetchPriority:void 0,referrerPolicy
+ceiveProps(). If you meant to fetch data or run side-effects or m
+  async function fetchData() {
+  fetchData();
+Learn more about data fetching with Hooks: https://react.
+dev/link/hooks-data-fetching`:" You returned: "+n,re(t,
+",enterkeyhint:"enterKeyHint",fetchpriority:"fetchPriority",for:"
+* Move data fetching code or side effects to co
+* Move data fetching code or side effects to co
+* Move data fetching code or side effects to co
+* Move data fetching code or side effects to co
+unction(e){Ai.D(e),Qx("dns-prefetch",e,null)},C:function(e,t){Ai.
+\`encType\` for \`<Form>\`/\`<fetcher.Form>\` and will default to
+of window>"u"?"server://singlefetch/":window.location.origin):i;r
+==="stylesheet"?{...d,rel:"prefetch",as:"style"}:{...d,rel:"prefe
+Element("link",{key:g,rel:"prefetch",as:"fetch",href:g,...r})))}f
+Element("link",{key:z,rel:"prefetch",as:"fetch",href:z,...r})),S.
+lick:s,discover:r="render",prefetch:u="none",relative:d,reloadDoc
+wardRef(({discover:i="render",fetcherKey:s,navigate:r,reloadDocum
+,J=()=>_(ee||Z.currentTarget,{fetcherKey:s,method:ge,navigate:r,r
+}=V.useContext(an),r=FC(),u=i.fetch,d=i.navigate;return V.useCall
+);if(f.navigate===!1){let x=f.fetcherKey||V4();await u(x,r,f.acti
+""),g(null);try{const W=await fetch("/api/download",{method:"POST
+!0),P(null);try{const W=await fetch("/api/download",{method:"POST
+(""),z(!1);try{const se=await fetch("/api/ai/generate",{method:"P
+ormed directly as client-side fetches or processed via server-sid

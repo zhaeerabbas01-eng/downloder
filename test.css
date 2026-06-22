@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* src/index.css */
+@theme { --color-brand-bg: #050816; --color-brand-primary: #00E5FF; --color-brand-secondary: #7C4DFF; --color-brand-accent: #00FFB3; --font-sans: "Inter", system-ui, -apple-system, sans-serif; }
+body {
+  background-color: #050816;
+  color: #f8fafc;
+  font-family: var(--font-sans);
+}

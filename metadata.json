@@ -1,0 +1,8 @@
+{
+  "name": "Modra Video Downloader",
+  "description": "A high-performance interactive video downloader styled after Modra, supporting media analysis and format conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
